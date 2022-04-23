@@ -1,5 +1,5 @@
-Sumo Logic Sample Lambda Based Webhook Lambda Function
-======================================================
+Sumo Logic Sample Lambda Webhook Function
+=========================================
 
 Let's say you wanted to respond to an alert from Sumo Logic, what are your opptions?
 
