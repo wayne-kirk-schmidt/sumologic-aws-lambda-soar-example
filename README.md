@@ -1,7 +1,7 @@
 Sumo Logic Sample Lambda Webhook Function
 =========================================
 
-Let's say you wanted to respond to an alert from Sumo Logic, what are your opptions?
+Let's say you wanted to respond to an alert from Sumo Logic, what are your options?
 
 * Slack Message
 
@@ -21,7 +21,6 @@ Pretty much anything that is possible with a script, so the first step is unders
 For the example in this script, this can create/adjust a VPC, create and add to an ACL.
 
 Other actions could be to add/restrict control on AWS buckets, or stop/start services within your VPC.
-
 
 Installing the Scripts
 =======================
