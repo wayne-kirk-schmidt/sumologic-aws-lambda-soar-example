@@ -2,7 +2,7 @@ repo_name: wayne-kirk-schmidt/sumologic-aws-lambda-soar-example
 report_id: 8da6ce2b2731ba9e03eed0e4aac7986b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:03:15+00:00'
+timestamp: '2024-02-29T18:26:06+00:00'
 requested_by: wks-sumo-logic
 provider: github
 branch: main
